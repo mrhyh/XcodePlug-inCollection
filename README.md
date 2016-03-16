@@ -15,9 +15,6 @@ XHXcodePlug
 ####2、[FuzzyAutocompletePlugin](https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin)是代码补全的插件，提供对用户自定义方法或者系统api方法都可以预先提示。比如你想要UIImageView，你只需要输入uimv，就会出现提示
 * 使用心得：当你输入的方法名关键字会涉及到所有系统或者用户定义方法关键字的时候，你就会有点烦，所以这个看人吧！如果想偷懒，但是还是需要技巧的，比如你想要UIImageView，如果你输入UIge，会很快查到，所以这个看人吧！
 
-####3、[Reveal-Plugin-for-XCode](https://github.com/shjborage/Reveal-Plugin-for-XCode)是Reveal App的一个辅助插件，省去开发者的配置时间，从而达到最大的效果。
-* 使用心得：当对一个需求比较特殊的时候，比如富文本显示复杂的数据，这时候可能需要对每行、每列、字体进行细节的调整，可以利用Reveal进行三维空间的查看，这只是对开发哦！如果你想破解别人的app，看别人app的某个功能时，通过它还是可以给予多少帮助的哈！看封装、看继承的基类是什么，具体[点击这里](http://c.blog.sina.com.cn/profile.php?blogid=cb8a22ea89000gtw)                     
-
 ####5、[VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode)很多时候，为了快速开发，很多的技术文档都是能省则省，这个时候注释就变得异常重要。但是每次都要手动输入规范化的注释，着实也麻烦，但有了VVDocumenter，规范化的注释，主需要输入三个斜线“///”，就OK啦！
 * 使用心得：这个没有什么异议了，之所以输入三行斜杠，是避免了默认的注释功能，所以两者配合一起用，也不错，有时候不需要规范的注释，有时候对API就需要规范的注释，所以就得需要VVDocumenter-xcode来帮忙啦！
 
