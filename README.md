@@ -1,12 +1,11 @@
 # XcodePlug-inCollection
 XcodePlugCollection(Xcode 插件集合)
 
+收集xcode常用的插件和最新的插件，并做一个下载集合，免得大家一个一个的去下载，定期更新哈！
+
 直接在[https://github.com/mrhyh/XHXcodePlugin] 的基础上面添加修改的，感谢了！
 XHXcodePlug
 ===========
-
-收集xcode常用的插件和最新的插件，并做一个下载集合，免得大家一个一个的去下载，定期更新哈！
-
 收集适合我自己的插件哦！如果你发现有更好的，希望您高抬贵手，pull request给我，我合并进去哦！
 
 
